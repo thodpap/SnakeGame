@@ -1,7 +1,7 @@
 # SnakeGame
 To compile, you first need to install SFML (a library for visual objects).
 
-To install use: 
+To install use (in ubuntu): 
 
 sudo apt-get install libsfml-dev
 
